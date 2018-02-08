@@ -15,7 +15,7 @@
         android:text="Joe Android"
         android:textColor="#ff000000"
         android:gravity="center"
-        android:textSize="16dp"
+        android:textSize="16sp"
         android:textStyle="bold" >
     </TextView>
 
