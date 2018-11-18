@@ -98,7 +98,7 @@
                 android:layout_margin="1dp"
                 android:background="@color/white"
                 android:gravity="center"
-                android:text="FFFFFFFF"
+                android:text="FFFFFF"
                 android:layout_weight="1"
                 android:textColor="@color/black" />
 
