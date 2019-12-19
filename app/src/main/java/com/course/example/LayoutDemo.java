@@ -15,6 +15,5 @@ public class LayoutDemo extends Activity {
         //setContentView(R.layout.main_tablelayout);
         //setContentView(R.layout.main_equalcolumn);
         //setContentView(R.layout.main_scrollview);
-        //setContentView(R.layout.main_absolutelayout);
     }
 }
